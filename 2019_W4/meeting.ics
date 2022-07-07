@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+PRODID:Zimbra-Calendar-Provider
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETTO:+0700
+TZOFFSETFROM:+0700
+TZNAME:ICT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:75172fd3-5f66-402a-835c-3bd5714e693b
+SUMMARY:[Tableau x PNJ] Trao đổi thêm thông tin
+LOCATION:Phòng họp lầu 4 - Khu B
+ATTENDEE;CN=nhut nb;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mai
+ lto:nhut.nb@pnj.com.vn
+ATTENDEE;CN="Lê";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto
+ :nhi.ltp@pnj.com.vn
+ATTENDEE;CN=chien nh;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:ma
+ ilto:chien.nh@pnj.com.vn
+ATTENDEE;CN=duyen ltk;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:m
+ ailto:duyen.ltk@pnj.com.vn
+ATTENDEE;CN=anh pv02;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:ma
+ ilto:anh.pv02@pnj.com.vn
+ATTENDEE;CN=daibt;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailt
+ o:daibt@bsdinsight.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:cuonglt
+ @bsdinsight.com
+ORGANIZER;CN="NGUYỄN LÊ BÌNH MINH":mailto:minh.nlb@pnj.com.vn
+DTSTART;TZID="Asia/Bangkok":20220708T140000
+DTEND;TZID="Asia/Bangkok":20220708T150000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20220707T014026Z
+DTSTAMP:20220707T014026Z
+SEQUENCE:0
+DESCRIPTION:The following is a new meeting request:\n\nSubject: [Tableau x P
+ NJ] Trao đổi thêm thông tin \nOrganizer: "NGUYỄN LÊ BÌNH MINH" <minh.nlb@pnj
+ .com.vn> \n\nLocation: Phòng họp lầu 4 - Khu B \nTime: Friday\, July 8\, 202
+ 2\, 2:00:00 PM - 3:00:00 PM GMT +07:00 Bangkok\, Hanoi\, Jakarta\n \nInvitee
+ s: nhut.nb@pnj.com.vn\; nhi.ltp@pnj.com.vn\; chien.nh@pnj.com.vn\; duyen.ltk
+ @pnj.com.vn\; anh.pv02@pnj.com.vn\; daibt@bsdinsight.com\; cuonglt@bsdinsigh
+ t.com \n\n\n*~*~*~*~*~*~*~*~*~*\n\nDear Anh/Chị\, \nEm xin phép book lịch họ
+ p để Tableau trao đổi thêm thông tin cần thiết với PNJ ạ. \n\n\n    * Thời g
+ ian: 2:00 PM - 3:00 PM ngày 08/07/2022 (Thứ 6). \n    * Địa điểm: Phòng họp 
+ lầu 4 - Khu B (170E Phan Đăng Lưu\, Phú Nhuận) \nChúc anh/chị một ngày tốt l
+ ành! \nEm cảm ơn! \n\n\nThanks and Best Regards\, \n\nNguyen Le Binh Minh \n
+ Nhân viên - Phân tích nghiệp vụ \nMobile: 0869171931 \n\nCÔNG TY CỔ PHẦN VÀN
+ G BẠC ĐÁ QUÝ PHÚ NHUẬN \nPHU NHUAN JEWELRY JOINT STOCK COMPANY \n170E Phan D
+ ang Luu Street\, Phu Nhuan District\, Ho Chi Minh City\, Vietnam. \n
+X-ALT-DESC;FMTTYPE=text/html:<html><body id='htmlmode'><h3>The following is 
+ a new meeting request:</h3>\n\n<p>\n<table border='0'>\n<tr><th align=left>S
+ ubject:</th><td>[Tableau x PNJ] Trao đổi thêm thông tin </td></tr>\n<tr><th 
+ align=left>Organizer:</th><td>"NGUYỄN LÊ BÌNH MINH" &lt\;minh.nlb@pnj.com.vn
+ &gt\; </td></tr>\n</table>\n<p>\n<table border='0'>\n<tr><th align=left>Loca
+ tion:</th><td>Phòng họp lầu 4 - Khu B </td></tr>\n<tr><th align=left>Time:</
+ th><td>Friday\, July 8\, 2022\, 2:00:00 PM - 3:00:00 PM GMT +07:00 Bangkok\,
+  Hanoi\, Jakarta\n </td></tr></table>\n<p>\n<table border='0'>\n<tr><th alig
+ n=left>Invitees:</th><td>nhut.nb@pnj.com.vn\; nhi.ltp@pnj.com.vn\; chien.nh@
+ pnj.com.vn\; duyen.ltk@pnj.com.vn\; anh.pv02@pnj.com.vn\; daibt@bsdinsight.c
+ om\; cuonglt@bsdinsight.com </td></tr>\n</table>\n<div>*~*~*~*~*~*~*~*~*~*</
+ div><br><div style="font-family: arial\, helvetica\, sans-serif\; font-size:
+  12pt\; color: #000000"><div>Dear Anh/Chị\,<br></div><div><div style="font-s
+ ize: 12pt\;" data-mce-style="font-size: 12pt\;"><div style="font-size: 12pt\
+ ;" data-mce-style="font-size: 12pt\;"><div><span style="font-size: 11pt\;" d
+ ata-mce-style="font-size: 11pt\;">Em xin phép book lịch họp để<strong>&nbsp\
+ ;Tableau trao đổi thêm thông tin cần thiết với PNJ&nbsp\;</strong>ạ.</span><
+ /div><ul style="list-style-type: circle\;" data-mce-style="list-style-type: 
+ circle\;"><li><span style="font-size: 11pt\;" data-mce-style="font-size: 11p
+ t\;">Thời gian:&nbsp\;<strong>2:00 PM - 3:00 PM</strong>&nbsp\;ngày<span sty
+ le="color: #000080\;" data-mce-style="color: #000080\;">&nbsp\;<strong><span
+  class="Object" id="OBJ_PREFIX_DWT515_com_zimbra_date" style="color: #005a95
+ \;" data-mce-style="color: #005a95\;"><span class="Object" id="OBJ_PREFIX_DW
+ T850_com_zimbra_date"><span class="Object" id="OBJ_PREFIX_DWT1079_com_zimbra
+ _date"><span class="Object" id="OBJ_PREFIX_DWT285_com_zimbra_date">08/07/202
+ 2</span></span></span></span></strong></span><strong><span style="color: #00
+ 0080\;" data-mce-style="color: #000080\;">&nbsp\;</span>(Thứ 6).</strong></s
+ pan></li><li><span style="font-size: 11pt\;" data-mce-style="font-size: 11pt
+ \;">Địa điểm:<b>&nbsp\;Phòng họp lầu 4 - Khu B (170E Phan Đăng Lưu\, Phú Nhu
+ ận)</b></span></li></ul></div><div style="font-size: 12pt\;" data-mce-style=
+ "font-size: 12pt\;"><span style="font-size: 11pt\;" data-mce-style="font-siz
+ e: 11pt\;">Chúc anh/chị một ngày tốt lành!</span></div><div style="font-size
+ : 12pt\;" data-mce-style="font-size: 12pt\;"><span style="font-size: 11pt\;"
+  data-mce-style="font-size: 11pt\;">Em cảm ơn!</span></div><div style="font-
+ size: 12pt\;" data-mce-style="font-size: 12pt\;"><span style="font-size: 11p
+ t\;" data-mce-style="font-size: 11pt\;"><br></span></div><div><span style="f
+ ont-size: 11pt\;" data-mce-style="font-size: 11pt\;"></span><p class="MsoNor
+ mal" style="font-size: 12pt\;" data-mce-style="font-size: 12pt\;"><span styl
+ e="font-size: 10pt\;" data-mce-style="font-size: 10pt\;"><span lang="VI" sty
+ le="color: #2e74b5\;" data-mce-style="color: #2e74b5\;">Thanks and Best&nbsp
+ \;</span><span style="color: #2e74b5\;" data-mce-style="color: #2e74b5\;">Re
+ gards\,</span></span></p><p class="MsoNormal" style="font-size: 12pt\;" data
+ -mce-style="font-size: 12pt\;"><span style="font-size: 10pt\;" data-mce-styl
+ e="font-size: 10pt\;"><b><span style="color: #002060\;" data-mce-style="colo
+ r: #002060\;"></span></b></span></p><p class="MsoNormal" style="font-family:
+  calibri\, sans-serif\; font-size: 11pt\; margin: 0px\;" data-mce-style="fon
+ t-family: calibri\, sans-serif\; font-size: 11pt\; margin: 0px\;"><span styl
+ e="font-family: arial\, helvetica\, sans-serif\; font-size: 10pt\;" data-mce
+ -style="font-family: arial\, helvetica\, sans-serif\; font-size: 10pt\;"><b>
+ <span style="color: #002060\;" data-mce-style="color: #002060\;">Nguyen Le B
+ inh Minh</span></b></span></p><p class="MsoNormal" style="margin: 0px\;" dat
+ a-mce-style="margin: 0px\;"><span style="color: #1f4e79\;" data-mce-style="c
+ olor: #1f4e79\;"><span style="font-size: 13.3333px\;" data-mce-style="font-s
+ ize: 13.3333px\;">Nhân viên - Phân tích nghiệp vụ</span></span></p><p class=
+ "MsoNormal" style="font-family: calibri\, sans-serif\; font-size: 11pt\; mar
+ gin: 0px\;" data-mce-style="font-family: calibri\, sans-serif\; font-size: 1
+ 1pt\; margin: 0px\;"><span style="color: #1f4e79\; font-family: arial\, helv
+ etica\, sans-serif\; font-size: 10pt\;" data-mce-style="color: #1f4e79\; fon
+ t-family: arial\, helvetica\, sans-serif\; font-size: 10pt\;">Mobile:&nbsp\;
+ <span class="Object" id="OBJ_PREFIX_DWT45_com_zimbra_phone" style="color: #0
+ 05a95\;" data-mce-style="color: #005a95\;"><span class="Object" id="OBJ_PREF
+ IX_DWT87_com_zimbra_phone"><span class="Object" id="OBJ_PREFIX_DWT116_com_zi
+ mbra_phone"><span class="Object" id="OBJ_PREFIX_DWT81_com_zimbra_phone"><spa
+ n class="Object" id="OBJ_PREFIX_DWT89_com_zimbra_phone"><span class="Object"
+  id="OBJ_PREFIX_DWT118_com_zimbra_phone"><span class="Object" id="OBJ_PREFIX
+ _DWT371_com_zimbra_phone"><span class="Object" id="OBJ_PREFIX_DWT86_com_zimb
+ ra_phone"><span class="Object" id="OBJ_PREFIX_DWT265_com_zimbra_phone"><span
+  class="Object" id="OBJ_PREFIX_DWT279_com_zimbra_phone"><span class="Object"
+  id="OBJ_PREFIX_DWT445_com_zimbra_phone"><span class="Object" id="OBJ_PREFIX
+ _DWT851_com_zimbra_phone"><span class="Object" id="OBJ_PREFIX_DWT286_com_zim
+ bra_phone"><a>0869171931</a></span></span></span></span></span></span></span
+ ></span></span></span></span></span></span></span></p><p class="MsoNormal" s
+ tyle="font-family: calibri\, sans-serif\; font-size: 11pt\; margin: 0px\;" d
+ ata-mce-style="font-family: calibri\, sans-serif\; font-size: 11pt\; margin:
+  0px\;"><span style="font-family: arial\, helvetica\, sans-serif\; font-size
+ : 10pt\;" data-mce-style="font-family: arial\, helvetica\, sans-serif\; font
+ -size: 10pt\;">&nbsp\;</span></p><p class="MsoNormal" style="font-family: ca
+ libri\, sans-serif\; font-size: 11pt\; margin: 0px\;" data-mce-style="font-f
+ amily: calibri\, sans-serif\; font-size: 11pt\; margin: 0px\;"><span style="
+ font-family: arial\, helvetica\, sans-serif\; font-size: 10pt\;" data-mce-st
+ yle="font-family: arial\, helvetica\, sans-serif\; font-size: 10pt\;"><b><sp
+ an style="color: #bf8f00\;" data-mce-style="color: #bf8f00\;">CÔNG TY CỔ PHẦ
+ N VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN</span></b></span></p><p class="MsoNormal" style=
+ "font-family: calibri\, sans-serif\; font-size: 11pt\; margin: 0px\;" data-m
+ ce-style="font-family: calibri\, sans-serif\; font-size: 11pt\; margin: 0px\
+ ;"><span style="font-family: arial\, helvetica\, sans-serif\; font-size: 10p
+ t\;" data-mce-style="font-family: arial\, helvetica\, sans-serif\; font-size
+ : 10pt\;"><b><span style="color: #bf8f00\;" data-mce-style="color: #bf8f00\;
+ ">PHU NHUAN JEWELRY JOINT STOCK COMPANY</span></b></span></p><p class="MsoNo
+ rmal" style="font-family: calibri\, sans-serif\; font-size: 11pt\; margin: 0
+ px\;" data-mce-style="font-family: calibri\, sans-serif\; font-size: 11pt\; 
+ margin: 0px\;"><span style="color: #2f5496\;" data-mce-style="color: #2f5496
+ \;"><span style="font-family: arial\, helvetica\, sans-serif\; font-size: 10
+ pt\;" data-mce-style="font-family: arial\, helvetica\, sans-serif\; font-siz
+ e: 10pt\;">170E Phan Dang Luu Street\, Phu Nhuan District\, Ho Chi Minh City
+ \, Vietnam.</span></span></p></div></div></div></div></body></html>
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;RELATED=START:-PT5M
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
