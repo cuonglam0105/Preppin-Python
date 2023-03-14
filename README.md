@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the Preppin' Data challenges. 
 
-[Preppin' Data](https://preppindata.blogspot.com/p/the-challenge-index.html) is a weekly challenge for data analysts and data scientists to hone their data processing skills using Tableau. Each challenge consists of a scenario and a dataset, and the objective is to clean, transform, and analyze the data to generate the desired output.__
+[Preppin' Data](https://preppindata.blogspot.com/p/the-challenge-index.html) is a weekly challenge for data analysts and data scientists to hone their data processing skills using Tableau. Each challenge consists of a scenario and a dataset, and the objective is to clean, transform, and analyze the data to generate the desired output.
 
 I have decided to solve these challenges using Python and SQL, and I have uploaded my solutions to this repository. My solutions include Python scripts, Jupyter notebooks, and SQL scripts that demonstrate how to manipulate and analyze the given datasets to generate the desired outputs.
 
