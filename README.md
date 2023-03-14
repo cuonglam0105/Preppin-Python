@@ -34,6 +34,25 @@ To run the SQL scripts, open the script in your SQL client and execute the scrip
 | [Week 03](https://preppindata.blogspot.com/2021/01/2021-week-3.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W3/2021_W3.ipynb)  |
 | [Week 04](https://preppindata.blogspot.com/2021/01/2021-week-4.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W4/2021_W4.ipynb)  |
 
+## 2019 Solution
+
+| Challenge   | Python |
+| ----------- | ----------- |
+| [Week 01](https://preppindata.blogspot.com/2019/02/2019-week-1.html)      | |
+| [Week 02](https://preppindata.blogspot.com/2019/02/2019-week-2.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W2.ipynb)  |
+| [Week 03](https://preppindata.blogspot.com/2019/02/2019-week-3.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W3.ipynb)  |
+| [Week 04](https://preppindata.blogspot.com/2019/03/2019-week-4.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W4.ipynb)  |
+| [Week 05](https://preppindata.blogspot.com/2019/03/2019-week-5.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W5.ipynb)  |
+| [Week 06](https://preppindata.blogspot.com/2019/03/2019-week-6.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W6.ipynb)  |
+| [Week 07](https://preppindata.blogspot.com/2019/03/2019-week-7.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W7.ipynb)  |
+| [Week 08](https://preppindata.blogspot.com/2019/04/2019-week-8.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W8.ipynb)  |
+| [Week 09](https://preppindata.blogspot.com/2019/04/2019-week-9.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W9.ipynb)  |
+| [Week 10](https://preppindata.blogspot.com/2019/04/2019-week-10.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W10.ipynb)  |
+| [Week 11](https://preppindata.blogspot.com/2019/04/2019-week-11.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W11.ipynb)  |
+| [Week 12](https://preppindata.blogspot.com/2019/05/2019-week-12.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W12.ipynb)  |
+| [Week 13](https://preppindata.blogspot.com/2019/05/2019-week-13.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W13.ipynb)  |
+| [Week 14](https://preppindata.blogspot.com/2019/05/2019-week-14.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2019_W2/2019_W14.ipynb)  |
+
 # Disclaimer
 
 The solutions provided in this repository are my own and may not be the most efficient or optimal solutions to the challenges. They are intended to showcase how to solve the challenges using Python and SQL and should not be used for production purposes without proper testing and validation. The datasets used in the challenges are the property of Preppin' Data and are used under fair use for educational purposes only.
