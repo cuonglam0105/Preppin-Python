@@ -1,7 +1,8 @@
 # Preppin' Data Challenges Solutions
 
 This repository contains my solutions to the Preppin' Data challenges. 
-__Preppin' Data is a weekly challenge for data analysts and data scientists to hone their data processing skills using various tools such as Excel, Alteryx, Tableau, SQL, and Python. Each challenge consists of a scenario and a dataset, and the objective is to clean, transform, and analyze the data to generate the desired output.__
+
+[Preppin' Data](https://preppindata.blogspot.com/p/the-challenge-index.html) is a weekly challenge for data analysts and data scientists to hone their data processing skills using Tableau. Each challenge consists of a scenario and a dataset, and the objective is to clean, transform, and analyze the data to generate the desired output.__
 
 I have decided to solve these challenges using Python and SQL, and I have uploaded my solutions to this repository. My solutions include Python scripts, Jupyter notebooks, and SQL scripts that demonstrate how to manipulate and analyze the given datasets to generate the desired outputs.
 
@@ -23,6 +24,15 @@ To run the SQL scripts, you need to have a SQL client installed, such as MySQL W
 To run the Python scripts and Jupyter notebooks, simply navigate to the corresponding challenge folder and run the script using the Python interpreter or the Jupyter notebook server.
 
 To run the SQL scripts, open the script in your SQL client and execute the script against the database of your choice.
+
+## 2021 Solution
+
+| Challenge   | Python |
+| ----------- | ----------- |
+| [Week 01](https://preppindata.blogspot.com/2021/01/2021-week-1.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W1/2021_W1.ipynb)  |
+| [Week 02](https://preppindata.blogspot.com/2021/01/2021-week-2.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W2/2021_W2.ipynb)  |
+| [Week 03](https://preppindata.blogspot.com/2021/01/2021-week-3.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W3/2021_W3.ipynb)  |
+| [Week 04](https://preppindata.blogspot.com/2021/01/2021-week-4.html)      | [:snake:](https://github.com/cuonglam0105/Preppin-Python/blob/main/2021_W4/2021_W4.ipynb)  |
 
 # Disclaimer
 
