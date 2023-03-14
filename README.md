@@ -42,7 +42,7 @@ The solutions provided in this repository are my own and may not be the most eff
 
 # :snake: Python Snippets
 
-### Read all Excel tabs and concat as one dateframe
+### Read all Excel tabs and concat as one dataframe
 ```
 all_tabs = pd.read_excel('folder\\filename.xlsx', sheet_name=None)
 ```
