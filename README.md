@@ -120,3 +120,13 @@ import pandas as pd
 df.rename( columns={'Col1':'Col1_New_Name'}, inplace=True )
 ```
 
+Split a column into multiple columns based on the specified separator
+```
+# split the pivot_value column into multiple columns based on the comma separator
+df_split = df['pivot_value'].str.split(', ', expand=True)
+
+# concatenate the resulting dataframes with the original dataframe
+df_concat = pd.concat([df, df_split], axis=1)
+```
+
+
