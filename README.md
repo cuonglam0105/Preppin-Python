@@ -78,6 +78,12 @@ Joining tables
 output = pd.merge(left=df_pivot, right=target, on=['Quarter', 'Store'], how='inner')
 ```
 
+Pivoting columns to rows
+```
+df2 = df2.melt(id_vars=None, value_vars=['Animal Ingredients', 'E Numbers'], var_name='pivot_name', value_name='pivot_value')
+```
+
+
 Replacing null values with zero, blank, previous or preceeding values
 ```
 import pandas as pd
